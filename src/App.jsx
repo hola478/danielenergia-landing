@@ -130,13 +130,7 @@ const copy = {
 function Logo() {
   return (
     <div className="logo" aria-label="Daniel Energía">
-      <div className="logo-mark">
-        <span></span>
-      </div>
-      <div>
-        <strong>Daniel</strong>
-        <small>Energía</small>
-      </div>
+      <img src="/logo.png" alt="Daniel Energía" />
     </div>
   )
 }
