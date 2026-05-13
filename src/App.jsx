@@ -197,13 +197,13 @@ export default function App() {
         </div>
 
         <div className="hero-card">
-          <div className="photo-placeholder">
-            <div className="sun"></div>
-            <div className="photo-text">
-              <strong>Daniel Gómez Farreny</strong>
-              <span>Asesor energético</span>
-            </div>
-          </div>
+          <div className="photo-real">
+  <img src="/daniel.png" alt="Daniel Gómez Farreny, asesor energético" />
+  <div className="photo-text">
+    <strong>Daniel Gómez Farreny</strong>
+    <span>Asesor energético</span>
+  </div>
+</div>
 
           <div className="mini-card">
             <strong>Consulta clara y personal</strong>
