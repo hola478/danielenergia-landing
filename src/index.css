@@ -543,14 +543,9 @@ h3 {
     padding: 14px 18px;
   }
 
-  .logo-mark {
-    width: 40px;
-    height: 40px;
-  }
-
-  .logo strong {
-    font-size: 16px;
-  }
+  .logo img {
+  width: 138px;
+}
 
   .section {
     padding: 58px 18px;
@@ -573,9 +568,13 @@ h3 {
     font-size: 17px;
   }
 
-  .photo-placeholder {
-    min-height: 440px;
-  }
+  .photo-real {
+  min-height: 440px;
+}
+
+.photo-real img {
+  height: 440px;
+}
 
   .mini-card {
     position: relative;
