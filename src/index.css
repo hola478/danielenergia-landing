@@ -525,7 +525,19 @@ h3 {
   .hero {
     grid-template-columns: 1fr;
   }
+  .photo-text {
+    left: 26px;
+    right: 26px;
+  }
 
+  .mini-card {
+    position: relative;
+    left: auto;
+    bottom: auto;
+    width: auto;
+    max-width: none;
+    margin-top: 16px;
+  }
   .hero-card {
     max-width: 620px;
   }
