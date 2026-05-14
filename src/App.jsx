@@ -17,12 +17,12 @@ const copy = {
     subtitle:
       'Te ayudo a entender qué solución energética puede encajar con tu vivienda.',
     heroText:
-      'Asesoramiento energético claro y personal para clientes de cualquier punto de España. Fotovoltaica, aerotermia, baterías, cargadores para vehículo eléctrico y mantenimiento, explicado sin complicarte.',
+      'Asesoramiento energético claro y personal. Fotovoltaica, aerotermia, baterías, cargadores para vehículo eléctrico y mantenimiento, explicado sin complicarte.',
     primaryCta: 'Contactar por WhatsApp',
     secondaryCta: 'Ver servicios',
     trust1: 'Atención personal',
     trust2: 'Lenguaje claro',
-    trust3: 'Toda España',
+    trust3: 'Soluciones reales',
     servicesTitle: 'Soluciones energéticas para tu vivienda',
     servicesSubtitle:
       'Una primera orientación sencilla para saber qué puede tener sentido en tu caso.',
@@ -52,7 +52,7 @@ const copy = {
     aboutText1:
       'Daniel trabaja desde la cercanía y la experiencia. Su objetivo no es venderte una solución compleja, sino ayudarte a entender qué encaja con tu vivienda, tu consumo y tu situación.',
     aboutText2:
-      'Atiende consultas de clientes en cualquier punto de España. Si hay una solución interesante, te la explica. Si no tiene sentido, también te lo dice. La idea es que puedas tomar una decisión informada, sin presión y con claridad.',
+      'Si hay una solución interesante, te la explica. Si no tiene sentido, también te lo dice. La idea es que puedas tomar una decisión informada, sin presión y con claridad.',
     processTitle: 'Cómo funciona',
     process: [
       'Le escribes por WhatsApp y le explicas tu caso.',
@@ -62,8 +62,7 @@ const copy = {
     finalCtaTitle: '¿Quieres saber si te compensa dar el paso?',
     finalCtaText:
       'Escríbele a Daniel y cuéntale tu caso. Te responderá personalmente.',
-    footerText:
-      'Daniel Energía · Asesor energético independiente para clientes en toda España',
+    footerText: 'Daniel Energía · Asesor energético independiente',
     email: 'info@danielenergia.es'
   },
   ca: {
@@ -76,12 +75,12 @@ const copy = {
     subtitle:
       'T’ajudo a entendre quina solució energètica pot encaixar amb el teu habitatge.',
     heroText:
-      'Assessorament energètic clar i personal per a clients de qualsevol punt d’Espanya. Fotovoltaica, aerotèrmia, bateries, carregadors per a vehicle elèctric i manteniment, explicat sense complicacions.',
+      'Assessorament energètic clar i personal. Fotovoltaica, aerotèrmia, bateries, carregadors per a vehicle elèctric i manteniment, explicat sense complicacions.',
     primaryCta: 'Contactar per WhatsApp',
     secondaryCta: 'Veure serveis',
     trust1: 'Atenció personal',
     trust2: 'Llenguatge clar',
-    trust3: 'Tot Espanya',
+    trust3: 'Solucions reals',
     servicesTitle: 'Solucions energètiques per al teu habitatge',
     servicesSubtitle:
       'Una primera orientació senzilla per saber què pot tenir sentit en el teu cas.',
@@ -111,7 +110,7 @@ const copy = {
     aboutText1:
       'Daniel treballa des de la proximitat i l’experiència. El seu objectiu no és vendre’t una solució complexa, sinó ajudar-te a entendre què encaixa amb el teu habitatge, el teu consum i la teva situació.',
     aboutText2:
-      'Atén consultes de clients a qualsevol punt d’Espanya. Si hi ha una solució interessant, te l’explica. Si no té sentit, també t’ho diu. La idea és que puguis prendre una decisió informada, sense pressió i amb claredat.',
+      'Si hi ha una solució interessant, te l’explica. Si no té sentit, també t’ho diu. La idea és que puguis prendre una decisió informada, sense pressió i amb claredat.',
     processTitle: 'Com funciona',
     process: [
       'Li escrius per WhatsApp i li expliques el teu cas.',
@@ -121,8 +120,7 @@ const copy = {
     finalCtaTitle: 'Vols saber si et compensa fer el pas?',
     finalCtaText:
       'Escriu a Daniel i explica-li el teu cas. Et respondrà personalment.',
-    footerText:
-      'Daniel Energia · Assessor energètic independent per a clients a tot Espanya',
+    footerText: 'Daniel Energia · Assessor energètic independent',
     email: 'info@danielenergia.es'
   }
 }
