@@ -1,9 +1,9 @@
 import { useState } from 'react'
 
 const WHATSAPP_URL =
-  'https://wa.me/34651388685?text=Hola%20Daniel,%20me%20gustar%C3%ADa%20consultarte%20mi%20caso.'
+  'https://wa.me/34651388685?text=Hola%20Daniel,%20me%20gustar%C3%ADa%20contactar%20contigo.'
 
-const INSTAGRAM_URL = 'https://www.instagram.com/danielenergia'
+const INSTAGRAM_URL = 'https://www.instagram.com/danielgomezfarrenyenergia'
 const FACEBOOK_URL = 'https://www.facebook.com/'
 
 const copy = {
@@ -17,12 +17,12 @@ const copy = {
     subtitle:
       'Te ayudo a entender qué solución energética puede encajar con tu vivienda.',
     heroText:
-      'Atención presencial en Castelldefels y alrededores, aproximadamente en un radio de 40 km. También puedo asesorarte por videollamada en cualquier punto de España.',
-    primaryCta: 'Consultar por WhatsApp',
+      'Asesoramiento energético claro y personal para clientes de cualquier punto de España. Fotovoltaica, aerotermia, baterías, cargadores para vehículo eléctrico y mantenimiento, explicado sin complicarte.',
+    primaryCta: 'Contactar por WhatsApp',
     secondaryCta: 'Ver servicios',
     trust1: 'Atención personal',
     trust2: 'Lenguaje claro',
-    trust3: 'Presencial y online',
+    trust3: 'Toda España',
     servicesTitle: 'Soluciones energéticas para tu vivienda',
     servicesSubtitle:
       'Una primera orientación sencilla para saber qué puede tener sentido en tu caso.',
@@ -52,18 +52,18 @@ const copy = {
     aboutText1:
       'Daniel trabaja desde la cercanía y la experiencia. Su objetivo no es venderte una solución compleja, sino ayudarte a entender qué encaja con tu vivienda, tu consumo y tu situación.',
     aboutText2:
-      'Puede atender presencialmente en Castelldefels y zonas cercanas, y también por videollamada si estás en otra zona de España. Si hay una solución interesante, te la explica. Si no tiene sentido, también te lo dice.',
+      'Atiende consultas de clientes en cualquier punto de España. Si hay una solución interesante, te la explica. Si no tiene sentido, también te lo dice. La idea es que puedas tomar una decisión informada, sin presión y con claridad.',
     processTitle: 'Cómo funciona',
     process: [
       'Le escribes por WhatsApp y le explicas tu caso.',
-      'Daniel te llama personalmente para entender la vivienda y tus necesidades.',
-      'Te orienta sobre la solución que puede encajar mejor, presencialmente o por videollamada.'
+      'Daniel te contacta personalmente para entender la vivienda y tus necesidades.',
+      'Te orienta sobre la solución que puede encajar mejor contigo.'
     ],
     finalCtaTitle: '¿Quieres saber si te compensa dar el paso?',
     finalCtaText:
       'Escríbele a Daniel y cuéntale tu caso. Te responderá personalmente.',
     footerText:
-      'Daniel Energía · Presencial en Castelldefels y alrededores · Videollamada en toda España',
+      'Daniel Energía · Asesor energético independiente para clientes en toda España',
     email: 'info@danielenergia.es'
   },
   ca: {
@@ -76,12 +76,12 @@ const copy = {
     subtitle:
       'T’ajudo a entendre quina solució energètica pot encaixar amb el teu habitatge.',
     heroText:
-      'Atenció presencial a Castelldefels i voltants, aproximadament en un radi de 40 km. També puc assessorar-te per videotrucada a qualsevol punt d’Espanya.',
-    primaryCta: 'Consultar per WhatsApp',
+      'Assessorament energètic clar i personal per a clients de qualsevol punt d’Espanya. Fotovoltaica, aerotèrmia, bateries, carregadors per a vehicle elèctric i manteniment, explicat sense complicacions.',
+    primaryCta: 'Contactar per WhatsApp',
     secondaryCta: 'Veure serveis',
     trust1: 'Atenció personal',
     trust2: 'Llenguatge clar',
-    trust3: 'Presencial i online',
+    trust3: 'Tot Espanya',
     servicesTitle: 'Solucions energètiques per al teu habitatge',
     servicesSubtitle:
       'Una primera orientació senzilla per saber què pot tenir sentit en el teu cas.',
@@ -111,18 +111,18 @@ const copy = {
     aboutText1:
       'Daniel treballa des de la proximitat i l’experiència. El seu objectiu no és vendre’t una solució complexa, sinó ajudar-te a entendre què encaixa amb el teu habitatge, el teu consum i la teva situació.',
     aboutText2:
-      'Pot atendre presencialment a Castelldefels i zones properes, i també per videotrucada si ets en una altra zona d’Espanya. Si hi ha una solució interessant, te l’explica. Si no té sentit, també t’ho diu.',
+      'Atén consultes de clients a qualsevol punt d’Espanya. Si hi ha una solució interessant, te l’explica. Si no té sentit, també t’ho diu. La idea és que puguis prendre una decisió informada, sense pressió i amb claredat.',
     processTitle: 'Com funciona',
     process: [
       'Li escrius per WhatsApp i li expliques el teu cas.',
-      'Daniel et truca personalment per entendre l’habitatge i les teves necessitats.',
-      'T’orienta sobre la solució que pot encaixar millor, presencialment o per videotrucada.'
+      'Daniel et contacta personalment per entendre l’habitatge i les teves necessitats.',
+      'T’orienta sobre la solució que pot encaixar millor amb tu.'
     ],
     finalCtaTitle: 'Vols saber si et compensa fer el pas?',
     finalCtaText:
       'Escriu a Daniel i explica-li el teu cas. Et respondrà personalment.',
     footerText:
-      'Daniel Energia · Presencial a Castelldefels i voltants · Videotrucada a tot Espanya',
+      'Daniel Energia · Assessor energètic independent per a clients a tot Espanya',
     email: 'info@danielenergia.es'
   }
 }
